@@ -1,7 +1,6 @@
-
-                                       Chikoo Milk Shake
-ingridients:
-chikoo
+                                       Banana Milk Shake
+Ingridients:
+Banana
 sugar
 milk
 vanila extract
